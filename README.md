@@ -1,10 +1,11 @@
 ---
 <div align="center">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=header"/>
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&right=true&vCenter=true&width=1000&lines=Hello+World!,+My+name+is+Eleandro+S.+Joaquim.;I'm+42+years+old!;I'm+a+Software+Engineer🔭;Be+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 
 </div>
+
+<h2 align="center">Hello World! 👋, I'm Eleandro S. Joaquim</h2>
+<h3 align="center">A Software Engineer Brazilian living in Liverpool, UK</h3>
 
 ---
 
@@ -56,14 +57,6 @@ for learning and collaborating, make me a strong candidate for future opportunit
     <br><h3 align="centre"><b> GitHub Stars:</b></h3>
 
 ![Eleandro_GitHub_stats](https://github-readme-stats.vercel.app/api?username=eleandro-s-joaquim&theme=dark&show_icons=true)
-
-</div>
-
----
-<div align="center">
-    <br><h3 align="centre"><b> Contribution with GitHub:</b></h3>
-
-[![Eleandro_Github_graph](https://github-readme-activity-graph.cyclic.app/graph?username=eleandro-s-joaquim&bg_color=0d1117&color=6a5acd&line=6a5acd&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
