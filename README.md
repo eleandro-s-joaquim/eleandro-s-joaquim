@@ -4,7 +4,7 @@
 
 </div>
 
-<h2 align="center">Hello World! 👋, I'm Eleandro S. Joaquim</h2>
+<h2 align="center">Hello World! 🖖, I'm Eleandro S. Joaquim.</h2>
 <h3 align="center">A Software Engineer Brazilian living in Liverpool, UK</h3>
 
 ---
@@ -12,7 +12,7 @@
 ### How did you get here? 
 - [x] But since you're here, check out the repositories and contribute whatever you want.<br/>
 - [x] I'm learning as much as I can, so tips and recommendations are always appreciated. <br/>
-- [x] Thank you for your time.
+- [x] Thank you for your time.🙏
 <p>
 
 ---
@@ -22,7 +22,8 @@
 project management, and data analysis. Currently transitioning into software engineering. 
 <p>
 
-- [x] As a HyperionDev-trained software engineer, I have gained valuable experience in software <br/>
+- [x] As a [HyperionDev-trained software engineer](https://www.hyperiondev.com/bootcamps/software-engineering/), 
+I have gained valuable experience in software <br/>
 development. During the bootcamp, I received tasks on several project assignments and <br/> 
 with that acquired knowledge of the entire software development lifecycle, including design, <br/>
 coding, bug testing, databases, and web.
@@ -54,7 +55,7 @@ for learning and collaborating, make me a strong candidate for future opportunit
 
 ---
 <div align="center">
-    <br><h3 align="centre"><b> GitHub Stars:</b></h3>
+    <br><h3 align="centre"><b>🔃 GitHub Stars:</b></h3>
 
 ![Eleandro_GitHub_stats](https://github-readme-stats.vercel.app/api?username=eleandro-s-joaquim&theme=dark&show_icons=true)
 
@@ -63,14 +64,14 @@ for learning and collaborating, make me a strong candidate for future opportunit
 ---
 
 <div align="center">
-    <br><h3 align="centre"><b>🔭 Visitors Count</b></h3>  
+    <br><h3 align="centre"><b>🔭 Visitors Count:</b></h3>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{eleandro-s-joaquim}/count.svg" /></p>
     <img align="footer" alt="Eleandro-pic" height="180" style="border-radius:50px;" src="https://user-images.githubusercontent.com/81885034/221273369-87da3e53-f478-4ca1-b82d-e71d8b869347.png">
 
 </div>
 
 <div align="center">
-    <br><h3 align="centre"><b>📫 Connect with me:</b></h3>
+    <br><h3 align="centre"><b>📫 Personal Connection and Portfolio:</b></h3>
     <a href="https://www.linkedin.com/in/eleandro-s-joaquim-a6a046146" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.hyperiondev.com/portfolio/122547/" target="_blank"><img src="https://img.shields.io/badge/-hyperiondev-%23007777?style=for-the-badge&logo=HiperioDev&logoColor=" target="_blank"></a>
     <a href="https://github.com/eleandro-s-joaquim/eleandro-s-joaquim.git" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
